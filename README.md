@@ -1,2 +1,3 @@
 # gitdemo
-this is to demonstrate Git and GitHub commands to participants
+this is to demonstrate Git and GitHub commands to participant
+gitdemo
